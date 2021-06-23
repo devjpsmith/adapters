@@ -1,0 +1,27 @@
+[
+    {
+        "name": "United Kingdom",
+        "capital": "",
+        "currency": "GPB"
+    },{
+        "name": "Spain",
+        "capital": "Madrid",
+        "currency": "EUR"
+    },{
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "currency": "EUR"
+    },{
+        "name": "France",
+        "capital": "Paris",
+        "currency": "EUR"
+    },{
+        "name": "Poland",
+        "capital": "Warsaw",
+        "currency": "PLN"
+    },{
+        "name": "Germany",
+        "capital": "Berlin",
+        "currency": "EUR"
+    }
+]
